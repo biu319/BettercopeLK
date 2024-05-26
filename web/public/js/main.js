@@ -20,7 +20,7 @@ function App() {
 
   return html`
     <div class="logo">
-      <h1>BettercopeLK</h1>
+      <h1>Search Sinhala Subtitles</h1>
       <i>Better way to search & download Sinhala subtitles</i>
     </div>
 
@@ -36,6 +36,7 @@ function App() {
       selectedResults,
       setSelectedResults,
     })}
+ <h1>Souce code : https://github.com/ipmanlk/BettercopeLK</h1>
   `;
 }
 
