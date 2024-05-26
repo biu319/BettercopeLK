@@ -36,7 +36,7 @@ function App() {
       selectedResults,
       setSelectedResults,
     })}
- <h1>Souce code : https://github.com/ipmanlk/BettercopeLK</h1>
+ 
   `;
 }
 
